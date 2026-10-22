@@ -1,0 +1,8 @@
+numpy
+opencv-python
+vosk
+PyAudio
+pypinyin
+pygame
+pyserial
+paho-mqtt

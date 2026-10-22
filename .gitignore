@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+*.log
+.env
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Runtime assets containing local configuration or large speech data
+audio/
+models/vosk-model-*/
+
+# HBuilder/uni-app build output
+miniprogram/unpackage/
+
+# STM32 generated build output
+stm32/Debug/
+stm32/Release/
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.o
+*.d
+
+# OS/editor files
+.DS_Store
+Thumbs.db
