@@ -56,10 +56,7 @@
 
 /* External variables --------------------------------------------------------*/
 extern DMA_HandleTypeDef hdma_adc1;
-<<<<<<< HEAD
 extern UART_HandleTypeDef huart2;
-=======
->>>>>>> 786f1618a70ce4136384469ca2ae15a95eecd699
 /* USER CODE BEGIN EV */
 
 /* USER CODE END EV */
@@ -203,7 +200,6 @@ void SysTick_Handler(void)
 /******************************************************************************/
 
 /**
-<<<<<<< HEAD
   * @brief This function handles USART2 global interrupt.
   */
 void USART2_IRQHandler(void)
@@ -218,8 +214,6 @@ void USART2_IRQHandler(void)
 }
 
 /**
-=======
->>>>>>> 786f1618a70ce4136384469ca2ae15a95eecd699
   * @brief This function handles DMA2 stream0 global interrupt.
   */
 void DMA2_Stream0_IRQHandler(void)

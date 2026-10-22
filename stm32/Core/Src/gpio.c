@@ -45,10 +45,6 @@ void MX_GPIO_Init(void)
   /* GPIO Ports Clock Enable */
   __HAL_RCC_GPIOH_CLK_ENABLE();
   __HAL_RCC_GPIOA_CLK_ENABLE();
-<<<<<<< HEAD
-  __HAL_RCC_GPIOB_CLK_ENABLE();
-=======
->>>>>>> 786f1618a70ce4136384469ca2ae15a95eecd699
 
 }
 

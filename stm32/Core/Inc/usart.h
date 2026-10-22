@@ -32,21 +32,15 @@ extern "C" {
 
 /* USER CODE END Includes */
 
-<<<<<<< HEAD
 extern UART_HandleTypeDef huart1;
 
-=======
->>>>>>> 786f1618a70ce4136384469ca2ae15a95eecd699
 extern UART_HandleTypeDef huart2;
 
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
 
-<<<<<<< HEAD
 void MX_USART1_UART_Init(void);
-=======
->>>>>>> 786f1618a70ce4136384469ca2ae15a95eecd699
 void MX_USART2_UART_Init(void);
 
 /* USER CODE BEGIN Prototypes */
