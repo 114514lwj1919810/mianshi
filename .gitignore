@@ -1,0 +1,58 @@
+# Keil / ARMCC build outputs
+**/Output/
+**/Objects/
+**/Listings/
+*.axf
+*.elf
+*.o
+*.obj
+*.d
+*.crf
+*.lst
+*.map
+*.htm
+*.dep
+*.lnp
+*.tra
+*.bak
+*.uvguix.*
+*.uvoptx
+
+# Python / PowerShell temporary files
+**/__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+
+# Generated firmware and secure IAP packages
+*.bin
+*.hex
+*.enc
+*.SEC
+finall-joker/Release/*
+!finall-joker/Release/.gitkeep
+
+# Production secrets and per-device identity material
+finall-joker/产品表/devices.csv
+finall-joker/产品表/package_history.csv
+finall-joker/产品表/universal_package_history.csv
+finall-joker/产品表/签名密钥/*
+!finall-joker/产品表/签名密钥/.gitkeep
+finall-joker/产品表/身份文件/*
+!finall-joker/产品表/身份文件/.gitkeep
+*.pem
+*private_key*
+**/DEVICE_IDENTITY.bin
+**/DEVICE_IDENTITY.hex
+IDENTITY.SEC
+DEVICES.SEC
+UPDATE.SEC
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+

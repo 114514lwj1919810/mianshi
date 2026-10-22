@@ -1,0 +1,3 @@
+device_id,uid_hex,device_key_hex,status,notes,created_at
+143-001,00112233445566778899AABB,REPLACE_WITH_64_HEX_RANDOM_DEVICE_KEY,disabled,example only,YYYY-MM-DD HH:MM:SS
+

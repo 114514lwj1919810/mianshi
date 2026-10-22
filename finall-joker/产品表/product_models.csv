@@ -1,0 +1,2 @@
+model_name,model_code,bootloader,app_a_base,app_b_base,app_slot_size,identity_base,status
+JOKER_GD_V1,0x4A563031,GD_BOOT_SECURE,0x08020000,0x08060000,0x00040000,0x080E0000,active
