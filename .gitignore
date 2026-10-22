@@ -1,0 +1,57 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Android/Gradle generated files
+.gradle/
+**/build/
+local.properties
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Keil generated files
+**/Objects/
+**/Listings/
+**/Output/
+**/output/
+**/list/
+*.o
+*.d
+*.crf
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lnp
+*.dep
+*.build_log.htm
+*.uvguix.*
+*.log
+
+# Local backups and editor state
+.vs/
+.idea/
+.vscode/
+.codex*/
+*.bak
+*.tmp
+Thumbs.db
+.DS_Store
